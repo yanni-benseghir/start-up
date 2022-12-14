@@ -1,0 +1,13 @@
+.btn-brown {
+	background-color: #85481e;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.btn-brown:hover {
+	background-color: black;
+}
+

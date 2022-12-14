@@ -1,0 +1,21 @@
+.banner {
+	background-image: url(../../images/banner.jpeg);
+	color: black;
+	padding: 150px 0px;
+}
+
+.container-banner {
+	width: 690px;
+	margin-left: 20px;
+}
+
+.banner h1 {
+	font-size: 32px;
+}
+
+.banner h2 {
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
